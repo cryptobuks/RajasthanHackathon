@@ -1,0 +1,65 @@
+body{
+    
+}
+.header{
+    background: green;
+    height: 15%;
+    font-family: sans-serif;
+    font-size: 90px;
+}
+.headerlabel{
+    padding: 5%;
+}
+.box-button{
+    background: rgb(161, 231, 161);
+    height: 18%;
+    border: 1px solo
+}
+.box-label{
+    padding-top: 36%;
+    font-size: 40px;
+    padding-left: 10%;
+}
+.walletbalance{
+    font-size: 100px;
+    padding-top: 10%;
+}
+.wallettransaction{
+    margin-top: 12%;
+    background: green;
+    font-size: 80px;
+}
+.parameter-padding{
+    padding-left: 6%;
+    padding-right: 6%;
+}
+.label-text{
+    font-size: 50px;
+}
+.label-text-row{
+    padding: 5%;
+}
+.deducted-label{
+    font-size: 100px;
+    margin-top: 10%;
+}
+.qr-height{
+    height: 18%;
+    margin-top: 10%;
+}
+.scan-code{
+    font-size: 50px;
+    margin-top: 5%;
+}
+.received-message{
+    font-size: 100px;
+    margin-top: 5%;
+}
+.complete-home{
+    height: 6%;
+    margin-top: 10%;
+}
+.home-color{
+    background: green;
+    font-size: 70px;
+}
